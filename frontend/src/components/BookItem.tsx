@@ -20,7 +20,7 @@ export default function BookItem({
   return (
     <section>
       <h3>
-        {title} <Link to={`${id}/edit`}>[Edit]</Link>
+        {title} <Link to={`/${id}/edit`}>[Edit]</Link>
       </h3>
       <p>
         <strong>Author:</strong> {author}
