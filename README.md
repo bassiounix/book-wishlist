@@ -92,4 +92,9 @@ Reusable components found in `forntend/src/components`:
 To level up this project we can introduce user auth and protected pages in both frontend and backend integrating with user system in Django and JWTs. However, for the time and the convenience of the project goal I stopped here.
 
 ## Repository
+
 The project repository is available at <https://github.com/bassiounix/book-wishlist>
+
+## 3-Tier AWS Architecutre Diagram
+
+![3-tier AWS architecutre diagram](./3-tier%20AWS%20architecutre%20diagram.png)
